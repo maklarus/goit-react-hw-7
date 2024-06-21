@@ -1,0 +1,21 @@
+.form {
+  border: 1px solid black;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 300px;
+  padding: 15px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.inputWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.addContactButton {
+  width: 100px;
+  margin: 0 auto;
+}

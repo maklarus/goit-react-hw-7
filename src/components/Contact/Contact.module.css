@@ -1,0 +1,17 @@
+.cardWrapper {
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 300px;
+}
+
+.cardStyle {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.deleteBtn {
+  height: 30px;
+}

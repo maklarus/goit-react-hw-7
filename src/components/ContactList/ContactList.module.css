@@ -1,0 +1,20 @@
+.cardList {
+  list-style: none;
+  padding-left: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.cardListItem {
+  border: 1px solid black;
+  padding: 15px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  width: 300px;
+}
+
+.deleteBtn {
+  height: 30px;
+}
